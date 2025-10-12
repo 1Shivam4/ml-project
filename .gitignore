@@ -24,7 +24,6 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-catboost_info
 MANIFEST
 
 # PyInstaller
@@ -134,7 +133,6 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-artifacts
 # Environments
 .env
 .envrc
